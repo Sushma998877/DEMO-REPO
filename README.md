@@ -1,2 +1,2 @@
-# DEMO-REPO
-PRACTICE PURPOSE
+
+This is sample text file
